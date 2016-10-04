@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-04T08:41:24.381Z</updated>
+  <updated>2016-10-04T14:37:39.120Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>蛋生记</title>
+    <link href="http://yoursite.com/2016/10/04/%E8%9B%8B%E7%94%9F%E8%AE%B0/"/>
+    <id>http://yoursite.com/2016/10/04/蛋生记/</id>
+    <published>2016-10-04T13:59:50.000Z</published>
+    <updated>2016-10-04T14:37:39.120Z</updated>
+    
+    <content type="html"><![CDATA[<p>终于有自己的博客了！<br><img src="/images/蛋生记.jpg" alt="&quot;蛋生记&quot;"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;终于有自己的博客了！&lt;br&gt;&lt;img src=&quot;/images/蛋生记.jpg&quot; alt=&quot;&amp;quot;蛋生记&amp;quot;&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
