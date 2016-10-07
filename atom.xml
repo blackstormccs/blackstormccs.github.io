@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="www.google.com/"/>
-  <updated>2016-10-04T14:37:39.120Z</updated>
+  <updated>2016-10-07T12:24:51.276Z</updated>
   <id>www.google.com/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LoadRunner学习</title>
+    <link href="www.google.com/2016/10/07/LoadRunner%E5%AD%A6%E4%B9%A0/"/>
+    <id>www.google.com/2016/10/07/LoadRunner学习/</id>
+    <published>2016-10-07T12:06:07.000Z</published>
+    <updated>2016-10-07T12:24:51.276Z</updated>
+    
+    <content type="html"><![CDATA[<ol>
+<li>安装太费时，文件有4个G，破解加汉化，花了半天</li>
+<li>功能很强大，loadrunner自带了订票网站，HP LoadRunner\Samples\Web文件夹下</li>
+<li>Virtual User Generator录制脚本，先建选择web（HTTP/HTML）协议，然后建立脚本<br><img src="/images/录制脚本.png" alt="&quot;录制脚本&quot;"></li>
+<li>选择基于url的脚本录制</li>
+<li>脚本回放和关联</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ol&gt;
+&lt;li&gt;安装太费时，文件有4个G，破解加汉化，花了半天&lt;/li&gt;
+&lt;li&gt;功能很强大，loadrunner自带了订票网站，HP LoadRunner\Samples\Web文件夹下&lt;/li&gt;
+&lt;li&gt;Virtual User Generator录制脚本，先建选择web（
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>蛋生记</title>
